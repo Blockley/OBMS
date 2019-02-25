@@ -162,7 +162,9 @@ footer {
   margin-top: 4em;
 }
 
-
+li {
+	margin-top: 0.5em;	
+}
 
 .no-underline {
 	text-decoration: none;
