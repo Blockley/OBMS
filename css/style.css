@@ -73,14 +73,16 @@ h1 {
 h2 {
 	font-size: 1.75em;
 	line-height: 1.5em;
-	font-family: "Source Sans Pro"
+	font-family: "Source Sans Pro";
 }
 
 h3 {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-family: "Source Sans Pro"
+  font-family: "Source Sans Pro";
+margin-bottom: -0.25em;
+  margin-top: 1em; 
 }
 
 a:link {
